@@ -1,7 +1,8 @@
 def pi_fraction(gap)
   pi = Math::PI
 
-  numerator, denominator = 3, 1
+  numerator = 3.0
+  denominator = 1.0
 
   # magic here
 
